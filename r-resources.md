@@ -4,6 +4,8 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 
 [The R Project for Statistical Computing / Software](http://www.r-project.org/)
 
+[Learn Data Science with R / Tutorials](https://www.datacamp.com/courses)
+
 #### Basic R
 
  * R in a Nutshell [O'Reilly / Book ```$41```](http://amzn.to/1s54OBf)
@@ -17,6 +19,7 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
  * Introduction to Data Science [Syracuse University / ebook](http://jsresearch.net/index.html)
  * Learn R & Become a Data Analyst [Tutorial](https://www.datacamp.com/)
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
+ * Practical Data Science with R [Manning Publications / Book ```$49.99```](http://www.manning.com/zumel/)
  
 #### Statistical Learning with R
 
